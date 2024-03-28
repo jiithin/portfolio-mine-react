@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-mine-react/static/css/main.bf4f3b36.css",
+    "main.js": "/portfolio-mine-react/static/js/main.5259eb0c.js",
+    "static/media/blob-haikei.jpg": "/portfolio-mine-react/static/media/blob-haikei.fa1ff09776d8cc62839b.jpg",
+    "index.html": "/portfolio-mine-react/index.html",
+    "main.bf4f3b36.css.map": "/portfolio-mine-react/static/css/main.bf4f3b36.css.map",
+    "main.5259eb0c.js.map": "/portfolio-mine-react/static/js/main.5259eb0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4f3b36.css",
+    "static/js/main.5259eb0c.js"
+  ]
+}
